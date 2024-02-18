@@ -23,5 +23,6 @@
     "minicache": "^1.1.0",
     "water.css": "^2.1.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "pnpm@8.15.3"
 }
